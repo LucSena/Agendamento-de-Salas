@@ -18,16 +18,48 @@ Um site para os professores conseguirem agendar as salas disponibilizadas pelo S
 
 ## 🎨 Imagens do projeto
 
-<!--
+
+> Página de Cadastro do Usuario
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(1).png)
+
 > Página de Login do Usuario
-![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(1).png)
-> Página onde mostra as tarefas pendentes.
-![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(4).png)
-> Página de cadastrar novas tarefas.
-![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(3).png)
-> Página onde mostra todas as tarefas.
-![GK1](https://github.com/LucSena/Lista-de-Tarefas/blob/main/imagemgit/LISTA%20DE%20TAREFAS%20(2).png)
--->
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(2).png)
+
+> Página Inicial do Administrador.
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(3).png)
+
+> Página Inicial do Usuario.
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(4).png)
+
+> Perfil do Administrador.
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(5).png)
+
+> Perfil do Usuario.
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(6).png)
+
+> Modal de Agendamento.
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(7).png)
+
+> Informações da Sala.
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(8).png)
+
+> Modal de Editar a Sala(Administrador).
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(9).png)
+
+> Função de Adicionar um Andar(Administrador).
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(10).png)
+
+> Função de Adicionar um Bloco(Administrador).
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(11).png)
+
+> Função de Adicionar uma Sala(Administrador).
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(12).png)
+
+> Página de validação de usuarios(Administrador).
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(13).png)
+
+> Página de visualização de usuarios(Administrador).
+![GK1](https://github.com/LucSena/Agendamento-de-Salas/blob/main/ImagensGit/Sistemas%20Agenda%20(14).png)
 
 
 ---
@@ -50,10 +82,11 @@ Um site para os professores conseguirem agendar as salas disponibilizadas pelo S
 
 ## 🕸 Organização do Projeto
 
-Photoshop
+![Photoshop](https://img.shields.io/badge/photoshop-0D1117.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=1572B6&labelColor=0D1117)&nbsp;
   - Utilizado para desenvolver o Layout inicial do projeto.
 
-Google Drive
+
+![Google Drive](https://img.shields.io/badge/Google%20Drive-0D1117?style=for-the-badge&logo=googledrive&labelColor=0D1117)&nbsp;
   - Utilizamos para fazer trocas e gerenciamentos de arquivos.
 ---
 
@@ -63,7 +96,8 @@ Google Drive
 
 1. Após instalar todos os arquivos, será necessario importar o arquivo SQL para o seu localhost (no meu caso, PHPMYADMIN).
 2. Concluido isso, coloque a pasta do projeto dentro do seu htdocs(ou equivalente a pasta onde armazena seus projetos).
-3. Feito tudo isso, você já poderá utilizar, quando entrar no site faça login com o usuario de admin.
+3. Feito tudo isso, você já poderá utilizar, quando entrar no site faça login com o usuario desejavel.
+4. Ao realizar um novo cadastro no sistema, será necessario a validação do novo usuario pelo Administrador.
 
 Admin:
 * Email: adm@gmail.com
